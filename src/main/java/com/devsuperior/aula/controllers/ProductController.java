@@ -1,7 +1,6 @@
 package com.devsuperior.aula.controllers;
 
 import com.devsuperior.aula.dto.ProductDTO;
-import com.devsuperior.aula.entities.Product;
 import com.devsuperior.aula.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
